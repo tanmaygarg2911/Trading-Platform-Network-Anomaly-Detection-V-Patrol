@@ -20,37 +20,36 @@ V-Patrol is a network anomaly detection system designed to identify suspicious a
 
 ## Project Structure 📂
 
-
 V-Patrol/
-├── anomaly_map.html # 🌍 Interactive map of anomalies
-├── CombinedCountryData_2.0-IPv4_Cleaned.xlsx # 📊 Cleaned IPv4 dataset
-├── final.csv # 🧾 Final processed dataset
-├── ip_api.ipynb # 📍 IP geolocation notebook
-├── uniqueIPs.csv # 📑 Unique IP addresses
-├── V-Patrol Final Report.docx.pdf # 📄 Final project report
+├── anomaly_map.html                  # 🌍 Interactive map of anomalies  
+├── CombinedCountryData_2.0-IPv4_Cleaned.xlsx  # 📊 Cleaned IPv4 dataset  
+├── final.csv                         # 🧾 Final processed dataset  
+├── ip_api.ipynb                      # 📍 IP geolocation notebook  
+├── uniqueIPs.csv                     # 📑 Unique IP addresses  
+├── V-Patrol Final Report.docx.pdf    # 📄 Final project report  
 │
-├── featureData/ # 💾 Extracted features
-│ ├── feature_1_2.csv
-│ ├── feature_1_2_graph.csv
-│ ├── feature_3.csv
-│ ├── feature_4_5_6.csv
-│ ├── feature_7.csv
-│ ├── feature_8.csv
-│ └── feature_9.csv
+├── featureData/                      # 💾 Extracted features  
+│   ├── feature_1_2.csv  
+│   ├── feature_1_2_graph.csv  
+│   ├── feature_3.csv  
+│   ├── feature_4_5_6.csv  
+│   ├── feature_7.csv  
+│   ├── feature_8.csv  
+│   └── feature_9.csv  
 │
-├── forEachFeature/ # 📓 Feature-wise notebooks
-│ ├── feature1n2.ipynb
-│ ├── feature3.ipynb
-│ ├── feature4n5n6.ipynb
-│ ├── feature7.ipynb
-│ ├── feature8.ipynb
-│ └── feature9.ipynb
+├── forEachFeature/                   # 📓 Feature-wise notebooks  
+│   ├── feature1n2.ipynb  
+│   ├── feature3.ipynb  
+│   ├── feature4n5n6.ipynb  
+│   ├── feature7.ipynb  
+│   ├── feature8.ipynb  
+│   └── feature9.ipynb  
 │
-└── modeling/ # 🧠 Modeling experiments
-├── model.ipynb
-├── model1.ipynb
-└── model2.ipynb
-
+└── modeling/                         # 🧠 Modeling experiments  
+    ├── model.ipynb  
+    ├── model1.ipynb  
+    └── model2.ipynb  
+    
 ## Methodology 🧪
 
 The V-Patrol project follows these key steps:
