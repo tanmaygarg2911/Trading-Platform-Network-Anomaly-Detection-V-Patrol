@@ -19,7 +19,7 @@ V-Patrol is a network anomaly detection system designed to identify suspicious a
 *   **Geolocation Analysis 📍:** Identifies location-based anomalies, including impossible travel and mismatched country codes.
 
 ## Project Structure 📂
-
+```plaintext
 V-Patrol/
 ├── anomaly_map.html                  # 🌍 Interactive map of anomalies  
 ├── CombinedCountryData_2.0-IPv4_Cleaned.xlsx  # 📊 Cleaned IPv4 dataset  
@@ -49,7 +49,8 @@ V-Patrol/
     ├── model.ipynb  
     ├── model1.ipynb  
     └── model2.ipynb  
-    
+```
+
 ## Methodology 🧪
 
 The V-Patrol project follows these key steps:
